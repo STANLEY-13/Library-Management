@@ -1,4 +1,6 @@
-# Library-Management
+# LAB-02 Library-Management
+## NAME : STANLEY S
+## REG NO : 212223110054
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
@@ -21,7 +23,18 @@ done.
 In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
-### UML Diagrams:
+### USECASE DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/bd74ec43-8840-48c5-8d1a-7d8da6229694)
+### CLASS DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/a2bc1409-2153-4e27-b72c-c91d46d66672)
+### SEQUENCE DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/3fb62341-dcf5-4f6a-b275-814677f72a7b)
+### COMMUNICATION DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/aba32fd4-cc3c-4dcc-ae97-46a71da48457)
+### ACTIVITY DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/785bbd40-bd15-4eb8-967c-01bd729ca803)
+### PACKAGE DIAGRAM :
+![image](https://github.com/EzhilsreeJ/Library-Management/assets/144870412/62e027fe-5f14-4b84-97ce-82b0170c79b0)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
